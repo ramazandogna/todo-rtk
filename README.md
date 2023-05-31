@@ -1,17 +1,15 @@
-# React Watchlist APP
+# React Todo APP with Redux Toolkit
 
-In this project, I developed watchlist app using React, Redux-Toolkit, RTK-Query & Redux-Persist, Material-UI, Themoviedb API.
-
-You can search whatever you want movie name and if you want you can add to watchlist or add to watdhed list any movies.
+this project is made purely for RTK practice
 
 ## Demo
 
-I published my project on netlify. You can click [this link](https://movie-api-app-demo.netlify.app/)
+I published my project on netlify. You can click [this link](https://basic-todo-rtk.netlify.app/)
 to see the live demo of the project.
 
 ## Techs
 
-React, Redux-Toolkit, RTK-Query & Redux-Persist and Material-UI
+React, Redux-Toolkit
 
 ## Screenshots
 
