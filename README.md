@@ -16,7 +16,9 @@ React, Redux-Toolkit, RTK-Query & Redux-Persist and Material-UI
 ## Screenshots
 
 **Configure Store**
+
 ![App Screenshot](https://github.com/ramazandogna/todo-rtk/blob/main/src/assets/configureStore.png)
 
 **Slice**
+
 ![App Screenshot](https://github.com/ramazandogna/todo-rtk/blob/main/src/assets/todoSlice.png)

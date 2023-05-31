@@ -1,6 +1,6 @@
 import './App.css';
 
-import todoSlice, { add, remove, toggleCompleted } from './features/todoSlice';
+import { add, remove, toggleCompleted } from './features/todoSlice';
 import { useDispatch, useSelector } from 'react-redux';
 
 import { useState } from 'react';
